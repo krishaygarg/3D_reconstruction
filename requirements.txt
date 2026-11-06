@@ -1,3 +1,18 @@
-remotezip
-opencv-python
-pycolmap
+# ==============================================================================
+# ACM AI - 3D Reconstruction Data & Training Pipeline Dependencies
+# ==============================================================================
+
+# Core Pipeline (Frame Extraction, Blur Filtering, COLMAP Pose Estimation, uCO3D Ingestion)
+opencv-python>=4.8.0
+numpy>=1.24.0
+pycolmap>=4.0.0
+remotezip>=0.12.0
+tqdm>=4.66.0
+plyfile>=1.0.3
+
+# Optional: Nerfstudio & Local 3DGS Training Engine (Requires NVIDIA GPU with CUDA)
+# Note: For macOS or systems without NVIDIA GPU, train using train_gsplat_shoe.ipynb on Google Colab (free T4 GPU).
+# torch>=2.1.0
+# torchvision>=0.16.0
+# nerfstudio>=1.1.0
+

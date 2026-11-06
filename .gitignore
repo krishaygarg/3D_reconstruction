@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & local artifacts
+test_artifacts/
+ws/
+processed_data/
+outputs/
+exports/
+uco3d_shoe/
+.cache/
+
+# Large binaries & media
+*.zip
+*.tar.gz
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# OS & IDE
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
