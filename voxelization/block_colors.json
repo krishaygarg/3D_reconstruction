@@ -1,0 +1,6632 @@
+{
+  "minecraft:trial_spawner": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:andesite_wall": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:gray_bed": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:warped_slab": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:jungle_slab": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:exposed_copper_bulb": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:crimson_stairs": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:fire": {
+    "r": 255,
+    "g": 0,
+    "b": 0,
+    "colorName": "BRIGHT_RED"
+  },
+  "minecraft:purple_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:lily_pad": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:deepslate_tiles": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:deepslate_tile_stairs": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:potted_open_eyeblossom": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:observer": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:blackstone_stairs": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:warped_fence": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:bubble_coral_fan": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:polished_blackstone_brick_stairs": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:pink_wool": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:light_gray_shulker_box": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:mangrove_pressure_plate": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:green_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:sculk": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:orange_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:mangrove_fence": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:kelp_plant": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:granite_stairs": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:fire_coral_block": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:potted_dead_bush": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:piglin_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:blue_ice": {
+    "r": 160,
+    "g": 160,
+    "b": 255,
+    "colorName": "PALE_PURPLE"
+  },
+  "minecraft:cherry_planks": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:light_blue_stained_glass": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:dead_horn_coral_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:yellow_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:loom": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:stripped_pale_oak_wood": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:lime_shulker_box": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:beacon": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:stripped_crimson_stem": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:dead_brain_coral": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:diorite_stairs": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:stripped_mangrove_log": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:dark_oak_wall_hanging_sign": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:yellow_candle": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:calibrated_sculk_sensor": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:green_carpet": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:zombie_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:oak_hanging_sign": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:gray_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:stripped_acacia_log": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:chiseled_quartz_block": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:diorite_wall": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:exposed_cut_copper_slab": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:lever": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:mossy_stone_bricks": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:tnt": {
+    "r": 255,
+    "g": 0,
+    "b": 0,
+    "colorName": "BRIGHT_RED"
+  },
+  "minecraft:crimson_sign": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:waxed_oxidized_copper_trapdoor": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:pale_hanging_moss": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:black_carpet": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:gray_terracotta": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:white_carpet": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:end_stone_bricks": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:purple_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:sandstone_slab": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:birch_trapdoor": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:jungle_fence": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:smooth_stone_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:air": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:stripped_birch_wood": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:end_stone_brick_slab": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:warped_nylium": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:red_sandstone": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:void_air": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dark_oak_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:crimson_hanging_sign": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:waxed_oxidized_cut_copper_stairs": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:pale_moss_carpet": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:deepslate_copper_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:bamboo_door": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:bubble_coral": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:potted_wither_rose": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:wither_skeleton_skull": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:light_weighted_pressure_plate": {
+    "r": 250,
+    "g": 238,
+    "b": 77,
+    "colorName": "GOLD"
+  },
+  "minecraft:orange_glazed_terracotta": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:suspicious_gravel": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:mangrove_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:end_portal_frame": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:tuff": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:purpur_stairs": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:magma_block": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:cobblestone_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:creeper_wall_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:red_nether_bricks": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:waxed_oxidized_copper": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:terracotta": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:resin_brick_wall": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:pale_oak_wall_sign": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:dead_fire_coral_block": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:crimson_fungus": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:pale_oak_log": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:repeating_command_block": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:blue_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:dirt": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:stripped_dark_oak_log": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:resin_block": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:oxidized_copper_trapdoor": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:pink_concrete_powder": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:exposed_copper_trapdoor": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:suspicious_sand": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:oak_planks": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cut_sandstone": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:torchflower_crop": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:spruce_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:black_terracotta": {
+    "r": 37,
+    "g": 22,
+    "b": 16,
+    "colorName": "TERRACOTTA_BLACK"
+  },
+  "minecraft:end_stone": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:birch_hanging_sign": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:jungle_log": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:yellow_terracotta": {
+    "r": 186,
+    "g": 133,
+    "b": 36,
+    "colorName": "TERRACOTTA_YELLOW"
+  },
+  "minecraft:mud_bricks": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:mangrove_wall_sign": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:red_sandstone_stairs": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:yellow_bed": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:pink_candle": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:leaf_litter": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:dead_bubble_coral": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:oak_log": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:redstone_torch": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:carved_pumpkin": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:waxed_oxidized_copper_grate": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:mud": {
+    "r": 87,
+    "g": 92,
+    "b": 92,
+    "colorName": "TERRACOTTA_CYAN"
+  },
+  "minecraft:magenta_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:end_stone_brick_wall": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:light": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:soul_torch": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:mossy_cobblestone": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:calcite": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:resin_brick_slab": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:magenta_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:orange_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cherry_wall_sign": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:dragon_wall_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cherry_trapdoor": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:jungle_pressure_plate": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:pale_oak_sign": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:barrier": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dark_oak_door": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:weathered_copper_grate": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:spruce_sapling": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:resin_clump": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:acacia_pressure_plate": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:exposed_cut_copper": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:magenta_carpet": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:crimson_roots": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:frogspawn": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:stripped_jungle_wood": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:acacia_log": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:jungle_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:ladder": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:basalt": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:slime_block": {
+    "r": 127,
+    "g": 178,
+    "b": 56,
+    "colorName": "PALE_GREEN"
+  },
+  "minecraft:short_grass": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:lapis_block": {
+    "r": 74,
+    "g": 128,
+    "b": 255,
+    "colorName": "LAPIS_BLUE"
+  },
+  "minecraft:prismarine": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:waxed_exposed_copper_trapdoor": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:iron_block": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:dried_ghast": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:reinforced_deepslate": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:bell": {
+    "r": 250,
+    "g": 238,
+    "b": 77,
+    "colorName": "GOLD"
+  },
+  "minecraft:candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:brick_slab": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:gravel": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:light_gray_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:light_gray_concrete_powder": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:pale_oak_fence_gate": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:birch_wood": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:dark_prismarine_stairs": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:lime_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:orange_terracotta": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:pink_stained_glass": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:glow_lichen": {
+    "r": 127,
+    "g": 167,
+    "b": 150,
+    "colorName": "LICHEN_GREEN"
+  },
+  "minecraft:copper_grate": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:black_concrete": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:dark_oak_sapling": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:brown_candle": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:conduit": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:piston_head": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:black_wool": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:pale_oak_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:brain_coral_fan": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:light_gray_carpet": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:flowering_azalea_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:tuff_brick_slab": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:potatoes": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:coarse_dirt": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:dark_oak_log": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:brown_mushroom": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:cyan_glazed_terracotta": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:stripped_warped_stem": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:waxed_oxidized_cut_copper_slab": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:potted_orange_tulip": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:black_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:waxed_exposed_copper_door": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:bamboo_block": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:crimson_trapdoor": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:dark_oak_fence_gate": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:light_blue_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dark_oak_stairs": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:lime_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:waxed_copper_block": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:waxed_oxidized_cut_copper": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:grass_block": {
+    "r": 127,
+    "g": 178,
+    "b": 56,
+    "colorName": "PALE_GREEN"
+  },
+  "minecraft:dead_brain_coral_block": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:green_terracotta": {
+    "r": 76,
+    "g": 82,
+    "b": 42,
+    "colorName": "TERRACOTTA_GREEN"
+  },
+  "minecraft:magenta_concrete_powder": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:bamboo_planks": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:water": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:netherite_block": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:smooth_red_sandstone_stairs": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:polished_andesite": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:waxed_weathered_copper_trapdoor": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:acacia_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:oak_wall_sign": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:flower_pot": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:acacia_door": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:acacia_wall_hanging_sign": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:lime_carpet": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:quartz_slab": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:pale_oak_fence": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:white_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:shroomlight": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:smooth_quartz_stairs": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:potted_dandelion": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cobweb": {
+    "r": 199,
+    "g": 199,
+    "b": 199,
+    "colorName": "WHITE_GRAY"
+  },
+  "minecraft:weeping_vines": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:stripped_spruce_log": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:sandstone": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:oak_door": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:dead_horn_coral_wall_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:warped_hyphae": {
+    "r": 86,
+    "g": 44,
+    "b": 62,
+    "colorName": "DARK_DULL_PINK"
+  },
+  "minecraft:pointed_dripstone": {
+    "r": 76,
+    "g": 50,
+    "b": 35,
+    "colorName": "TERRACOTTA_BROWN"
+  },
+  "minecraft:water_cauldron": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:scaffolding": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:cartography_table": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:large_amethyst_bud": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:crimson_wall_sign": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:white_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:lime_concrete_powder": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:birch_pressure_plate": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:spruce_sign": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:crimson_fence_gate": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:yellow_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:pink_petals": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:mangrove_wood": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:stone_brick_wall": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:stripped_oak_log": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:red_shulker_box": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:damaged_anvil": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:lily_of_the_valley": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:end_stone_brick_stairs": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:purple_glazed_terracotta": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:potted_pale_oak_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:orange_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:bubble_coral_block": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:green_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cactus_flower": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:brown_terracotta": {
+    "r": 76,
+    "g": 50,
+    "b": 35,
+    "colorName": "TERRACOTTA_BROWN"
+  },
+  "minecraft:kelp": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:chiseled_copper": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:light_gray_bed": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:weathered_cut_copper_stairs": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:soul_fire": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:sandstone_wall": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:polished_blackstone_wall": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:waxed_exposed_cut_copper_stairs": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:moving_piston": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:smooth_stone": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:quartz_bricks": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:bamboo_fence": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:polished_diorite_stairs": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:black_shulker_box": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:warped_wall_hanging_sign": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:comparator": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:potted_flowering_azalea_bush": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:waxed_weathered_copper_bulb": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:oak_stairs": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:chain_command_block": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:gray_candle": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:white_stained_glass": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:bamboo_mosaic_stairs": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:warped_wart_block": {
+    "r": 20,
+    "g": 180,
+    "b": 133,
+    "colorName": "BRIGHT_TEAL"
+  },
+  "minecraft:small_dripleaf": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:moss_block": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:tube_coral": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:polished_blackstone_bricks": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:light_gray_wool": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:birch_fence": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:weathered_copper_trapdoor": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:chiseled_tuff_bricks": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:green_stained_glass": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:cave_vines": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:dark_oak_hanging_sign": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:sand": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:cut_copper": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:light_blue_carpet": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:purpur_slab": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:mangrove_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:warped_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:orange_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:warped_planks": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:cyan_wool": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:decorated_pot": {
+    "r": 142,
+    "g": 60,
+    "b": 46,
+    "colorName": "TERRACOTTA_RED"
+  },
+  "minecraft:fletching_table": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:light_blue_glazed_terracotta": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:smooth_quartz_slab": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:polished_granite_stairs": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:lime_stained_glass": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:composter": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cyan_terracotta": {
+    "r": 87,
+    "g": 92,
+    "b": 92,
+    "colorName": "TERRACOTTA_CYAN"
+  },
+  "minecraft:acacia_wall_sign": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:waxed_weathered_copper": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:pink_terracotta": {
+    "r": 160,
+    "g": 77,
+    "b": 78,
+    "colorName": "TERRACOTTA_PINK"
+  },
+  "minecraft:chorus_flower": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:waxed_exposed_chiseled_copper": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:birch_sign": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:acacia_fence": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:horn_coral_wall_fan": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:end_portal": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:magenta_concrete": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:lectern": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:dark_prismarine_slab": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:oxidized_cut_copper_slab": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:dark_oak_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:campfire": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:frosted_ice": {
+    "r": 160,
+    "g": 160,
+    "b": 255,
+    "colorName": "PALE_PURPLE"
+  },
+  "minecraft:powder_snow": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:azalea": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:andesite_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:light_gray_stained_glass": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:white_bed": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:red_concrete_powder": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:warped_stem": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:chiseled_tuff": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:red_tulip": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:pale_oak_trapdoor": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:green_concrete": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:polished_tuff_wall": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:jigsaw": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:podzol": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:white_concrete_powder": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:light_blue_bed": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:lightning_rod": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:birch_log": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:orange_shulker_box": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:stripped_crimson_hyphae": {
+    "r": 92,
+    "g": 25,
+    "b": 29,
+    "colorName": "DARK_CRIMSON"
+  },
+  "minecraft:tuff_stairs": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:spruce_wall_sign": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:light_gray_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cyan_candle": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:cyan_bed": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:cherry_log": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:azure_bluet": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:brown_mushroom_block": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:polished_deepslate_wall": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:red_stained_glass": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:purple_wool": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:waxed_exposed_cut_copper_slab": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:red_nether_brick_stairs": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:polished_andesite_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:melon": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:brain_coral_wall_fan": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:mossy_stone_brick_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:diamond_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:dragon_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:diorite": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:waxed_weathered_cut_copper_slab": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:light_gray_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:infested_chiseled_stone_bricks": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:polished_andesite_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:birch_wall_hanging_sign": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:iron_door": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:crafter": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:lime_bed": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:soul_wall_torch": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:polished_tuff": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:polished_basalt": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:mangrove_sign": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:ender_chest": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:black_glazed_terracotta": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:dark_oak_trapdoor": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:cherry_stairs": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:beetroots": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:black_candle": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:weathered_copper_door": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:infested_deepslate": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:mud_brick_slab": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:brick_wall": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:cherry_slab": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:oxidized_chiseled_copper": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:black_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:orange_bed": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:lilac": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:potted_cornflower": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:pitcher_plant": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:respawn_anchor": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:dead_brain_coral_wall_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:nether_brick_wall": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:acacia_slab": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:jack_o_lantern": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:polished_diorite_slab": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:mangrove_roots": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:cactus": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:purple_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:pink_shulker_box": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:crimson_door": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:twisting_vines": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:weathered_cut_copper_slab": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:blue_glazed_terracotta": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:brain_coral_block": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:sandstone_stairs": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:white_glazed_terracotta": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:player_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:smoker": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:crimson_wall_hanging_sign": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:magenta_stained_glass": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:purple_terracotta": {
+    "r": 122,
+    "g": 73,
+    "b": 88,
+    "colorName": "TERRACOTTA_PURPLE"
+  },
+  "minecraft:large_fern": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:nether_brick_fence": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:note_block": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:light_blue_concrete": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:dead_bubble_coral_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:chiseled_resin_bricks": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:waxed_exposed_copper_bulb": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:petrified_oak_slab": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:bamboo_slab": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:birch_wall_sign": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:brown_carpet": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:soul_soil": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:acacia_hanging_sign": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:stone_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:sticky_piston": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:player_wall_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:granite_wall": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:red_bed": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:snow": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:cyan_stained_glass": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:open_eyeblossom": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:sculk_sensor": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:waxed_chiseled_copper": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:wall_torch": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:oak_trapdoor": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:crimson_nylium": {
+    "r": 189,
+    "g": 48,
+    "b": 49,
+    "colorName": "DULL_RED"
+  },
+  "minecraft:birch_sapling": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:diamond_block": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:dead_bush": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:acacia_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:farmland": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:stone_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:bedrock": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:infested_mossy_stone_bricks": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:cherry_pressure_plate": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:potted_cactus": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:potted_oxeye_daisy": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:purple_candle": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:activator_rail": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:oak_pressure_plate": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:smooth_quartz": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:pale_oak_door": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:copper_door": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:spawner": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:glowstone": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:white_tulip": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:light_gray_glazed_terracotta": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:tube_coral_fan": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:light_blue_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:purple_concrete": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:oak_fence_gate": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:tripwire_hook": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:black_concrete_powder": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:spruce_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:chipped_anvil": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:prismarine_wall": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:cracked_deepslate_tiles": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:redstone_wall_torch": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:stone_brick_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:potted_crimson_roots": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:lava": {
+    "r": 255,
+    "g": 0,
+    "b": 0,
+    "colorName": "BRIGHT_RED"
+  },
+  "minecraft:gold_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:light_blue_wool": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:birch_stairs": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:blue_shulker_box": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:tinted_glass": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:polished_blackstone_brick_slab": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:daylight_detector": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:pink_concrete": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:waxed_oxidized_copper_bulb": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:dead_fire_coral_wall_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:weeping_vines_plant": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:quartz_block": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:fire_coral": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:polished_deepslate": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:coal_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:jungle_door": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:waxed_copper_grate": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:deepslate_iron_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:stripped_pale_oak_log": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:blue_carpet": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:black_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:spruce_door": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:polished_deepslate_stairs": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:cobblestone": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:jungle_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:powered_rail": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:stripped_dark_oak_wood": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:exposed_cut_copper_stairs": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:waxed_cut_copper_stairs": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:brown_bed": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:command_block": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:bamboo_mosaic": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:honeycomb_block": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:light_blue_terracotta": {
+    "r": 112,
+    "g": 108,
+    "b": 138,
+    "colorName": "TERRACOTTA_LIGHT_BLUE"
+  },
+  "minecraft:gray_concrete": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:smooth_sandstone_slab": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:blast_furnace": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:horn_coral": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:beehive": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:bamboo_mosaic_slab": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:pink_carpet": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:attached_melon_stem": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:lapis_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:moss_carpet": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:cut_red_sandstone": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:anvil": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:potted_brown_mushroom": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:brown_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:obsidian": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:red_sandstone_wall": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:purple_concrete_powder": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:tuff_brick_wall": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:cobbled_deepslate_stairs": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:chiseled_stone_bricks": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:blue_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:chiseled_deepslate": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:clay": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:bamboo_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:soul_campfire": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:pale_oak_leaves": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:gray_concrete_powder": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:warped_roots": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:waxed_copper_door": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:yellow_glazed_terracotta": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:yellow_wool": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:hanging_roots": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:cherry_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:bamboo_pressure_plate": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:polished_deepslate_slab": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:potted_closed_eyeblossom": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:polished_tuff_slab": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:resin_brick_stairs": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:dead_tube_coral": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:brown_concrete_powder": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:acacia_fence_gate": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:red_sand": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:pink_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:pearlescent_froglight": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:waxed_copper_bulb": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:oak_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:ochre_froglight": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:sunflower": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:stone_bricks": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:crimson_pressure_plate": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:enchanting_table": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:gray_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:short_dry_grass": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:cut_sandstone_slab": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:lantern": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:cobblestone_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:stone": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:poppy": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:potted_crimson_fungus": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:potted_azure_bluet": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:white_shulker_box": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:seagrass": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:redstone_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:potted_spruce_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:jungle_sapling": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:potted_dark_oak_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:turtle_egg": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:amethyst_block": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:big_dripleaf": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:waxed_weathered_cut_copper": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:cut_red_sandstone_slab": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:birch_door": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:jungle_fence_gate": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:oxidized_copper_bulb": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:oak_slab": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:heavy_core": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:oxidized_cut_copper_stairs": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:cherry_wall_hanging_sign": {
+    "r": 160,
+    "g": 77,
+    "b": 78,
+    "colorName": "TERRACOTTA_PINK"
+  },
+  "minecraft:dark_prismarine": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:ancient_debris": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:spruce_slab": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:white_terracotta": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:stripped_cherry_log": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:cherry_sign": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:acacia_wood": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:peony": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:sea_lantern": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:big_dripleaf_stem": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:skeleton_skull": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dirt_path": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:mossy_cobblestone_wall": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:white_wool": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:bush": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:purple_stained_glass": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:deepslate_emerald_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:blue_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:small_amethyst_bud": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:polished_blackstone_slab": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:light_blue_candle": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:deepslate_brick_slab": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:end_rod": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cave_vines_plant": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:smooth_basalt": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:allium": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:magenta_wool": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:prismarine_bricks": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:red_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:mud_brick_stairs": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:brown_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:gray_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:crafting_table": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:warped_pressure_plate": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:piglin_wall_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:green_shulker_box": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:sculk_catalyst": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:potted_mangrove_propagule": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:lava_cauldron": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:cut_copper_stairs": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:creeper_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dried_kelp_block": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:red_carpet": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:dark_oak_slab": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:bubble_coral_wall_fan": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:bamboo_trapdoor": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:prismarine_brick_slab": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:warped_fungus": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:pumpkin": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:red_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:oak_sapling": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:pale_oak_slab": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:barrel": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:pale_oak_wall_hanging_sign": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:jungle_trapdoor": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:bookshelf": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:blue_stained_glass": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:light_gray_candle": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:spruce_hanging_sign": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:polished_blackstone_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dead_fire_coral_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:potted_red_tulip": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:potted_warped_roots": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:chiseled_red_sandstone": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:torchflower": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:sea_pickle": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:orange_candle": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:green_concrete_powder": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:copper_block": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:weathered_copper": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:brown_stained_glass": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:exposed_chiseled_copper": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:attached_pumpkin_stem": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:mangrove_door": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:glass": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:bamboo_sapling": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cyan_carpet": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:pale_oak_planks": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:cherry_fence": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:tuff_wall": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:potted_red_mushroom": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:blackstone_wall": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:jungle_wall_hanging_sign": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:orange_wool": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:green_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:polished_blackstone_pressure_plate": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:polished_blackstone_brick_wall": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:potted_allium": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:piston": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:purple_bed": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:tube_coral_block": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:spruce_trapdoor": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:magenta_shulker_box": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:iron_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:smooth_sandstone_stairs": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:exposed_copper": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:gilded_blackstone": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:netherrack": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:nether_brick_slab": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:lime_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:yellow_shulker_box": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:gray_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:crimson_slab": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:purple_carpet": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:blue_concrete_powder": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:furnace": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:potted_fern": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:bee_nest": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:smithing_table": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:test_block": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:iron_trapdoor": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:grindstone": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:mangrove_fence_gate": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:lime_wool": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:pale_oak_hanging_sign": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:white_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:candle": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:bricks": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:brewing_stand": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:stripped_spruce_wood": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:red_sandstone_slab": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:spruce_fence": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:bamboo_wall_hanging_sign": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:waxed_exposed_cut_copper": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:smooth_red_sandstone": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:bamboo_fence_gate": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:pink_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:stripped_bamboo_block": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:cracked_polished_blackstone_bricks": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:jungle_planks": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:chain": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dead_tube_coral_wall_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:dead_tube_coral_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:rail": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:jungle_stairs": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:cobbled_deepslate_wall": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:purple_shulker_box": {
+    "r": 122,
+    "g": 73,
+    "b": 88,
+    "colorName": "TERRACOTTA_PURPLE"
+  },
+  "minecraft:end_gateway": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:prismarine_stairs": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:zombie_wall_head": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cherry_wood": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:sculk_vein": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:pale_oak_stairs": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:vine": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:red_mushroom_block": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:pink_tulip": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:flowering_azalea": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:sweet_berry_bush": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:light_blue_shulker_box": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:powder_snow_cauldron": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:light_gray_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:potted_birch_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:weathered_cut_copper": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:trapped_chest": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:pink_bed": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:dropper": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:spruce_log": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:chest": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:red_nether_brick_slab": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:mud_brick_wall": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:cauldron": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:infested_stone_bricks": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:test_instance_block": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:chiseled_sandstone": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:polished_granite": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:dispenser": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:potted_blue_orchid": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:polished_blackstone": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:pink_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:jungle_sign": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:light_gray_concrete": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:acacia_sapling": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:infested_cobblestone": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:red_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:waxed_weathered_chiseled_copper": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:tube_coral_wall_fan": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:deepslate_redstone_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:warped_fence_gate": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:warped_sign": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:brick_stairs": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:granite_slab": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:wet_sponge": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:cracked_stone_bricks": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:yellow_carpet": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:warped_stairs": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:azalea_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:warped_trapdoor": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:copper_bulb": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:heavy_weighted_pressure_plate": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:redstone_block": {
+    "r": 255,
+    "g": 0,
+    "b": 0,
+    "colorName": "BRIGHT_RED"
+  },
+  "minecraft:closed_eyeblossom": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:dead_horn_coral_block": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:spruce_wall_hanging_sign": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:waxed_weathered_copper_door": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:yellow_stained_glass": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:polished_granite_slab": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:lime_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cracked_deepslate_bricks": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:deepslate_lapis_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:red_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:rose_bush": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:sponge": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:warped_wall_sign": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:tall_dry_grass": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:crimson_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:warped_hanging_sign": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:prismarine_slab": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:blue_candle": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:jungle_hanging_sign": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:potted_cherry_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cyan_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:red_mushroom": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:spruce_planks": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:gray_stained_glass": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:repeater": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:andesite": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:magenta_terracotta": {
+    "r": 149,
+    "g": 87,
+    "b": 108,
+    "colorName": "TERRACOTTA_MAGENTA"
+  },
+  "minecraft:birch_planks": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:crimson_hyphae": {
+    "r": 92,
+    "g": 25,
+    "b": 29,
+    "colorName": "DARK_CRIMSON"
+  },
+  "minecraft:potted_lily_of_the_valley": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:gray_glazed_terracotta": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:horn_coral_block": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:copper_trapdoor": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:spruce_pressure_plate": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:oxidized_copper_grate": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:raw_iron_block": {
+    "r": 216,
+    "g": 175,
+    "b": 147,
+    "colorName": "RAW_IRON_PINK"
+  },
+  "minecraft:potted_white_tulip": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dandelion": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:mossy_cobblestone_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:oxeye_daisy": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:crying_obsidian": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:shulker_box": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:deepslate_brick_wall": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:brown_concrete": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:light_blue_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cyan_concrete": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:stone_pressure_plate": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:wither_rose": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:dripstone_block": {
+    "r": 76,
+    "g": 50,
+    "b": 35,
+    "colorName": "TERRACOTTA_BROWN"
+  },
+  "minecraft:dark_oak_wood": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:waxed_exposed_copper_grate": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:prismarine_brick_stairs": {
+    "r": 92,
+    "g": 219,
+    "b": 213,
+    "colorName": "DIAMOND_BLUE"
+  },
+  "minecraft:raw_gold_block": {
+    "r": 250,
+    "g": 238,
+    "b": 77,
+    "colorName": "GOLD"
+  },
+  "minecraft:waxed_oxidized_copper_door": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:lime_concrete": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:cyan_concrete_powder": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:orange_stained_glass": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:structure_void": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:stonecutter": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:cyan_candle_cake": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:light_gray_terracotta": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:green_candle": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:dark_oak_wall_sign": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:smooth_red_sandstone_slab": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:mangrove_planks": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:granite": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:tripwire": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:potted_poppy": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:waxed_cut_copper": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:cobblestone_wall": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:white_candle": {
+    "r": 199,
+    "g": 199,
+    "b": 199,
+    "colorName": "WHITE_GRAY"
+  },
+  "minecraft:polished_diorite": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:carrots": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:orange_concrete_powder": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:waxed_copper_trapdoor": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:white_concrete": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:green_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:chiseled_polished_blackstone": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:mushroom_stem": {
+    "r": 199,
+    "g": 199,
+    "b": 199,
+    "colorName": "WHITE_GRAY"
+  },
+  "minecraft:nether_brick_stairs": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:light_blue_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:hay_block": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:purpur_pillar": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:cherry_door": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:wheat": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:cherry_fence_gate": {
+    "r": 209,
+    "g": 177,
+    "b": 161,
+    "colorName": "TERRACOTTA_WHITE"
+  },
+  "minecraft:dark_oak_fence": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:verdant_froglight": {
+    "r": 127,
+    "g": 167,
+    "b": 150,
+    "colorName": "LICHEN_GREEN"
+  },
+  "minecraft:pale_oak_wood": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:mossy_cobblestone_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:dead_brain_coral_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:stripped_jungle_log": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:jukebox": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:potted_bamboo": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:orange_tulip": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:ice": {
+    "r": 160,
+    "g": 160,
+    "b": 255,
+    "colorName": "PALE_PURPLE"
+  },
+  "minecraft:snow_block": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "colorName": "WHITE"
+  },
+  "minecraft:magenta_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:tuff_bricks": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:muddy_mangrove_roots": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:crimson_fence": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:blue_bed": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:infested_cracked_stone_bricks": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:red_wool": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:birch_fence_gate": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:crimson_planks": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:pumpkin_stem": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:potted_torchflower": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:fire_coral_wall_fan": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:blue_concrete": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:horn_coral_fan": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:structure_block": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:pale_oak_pressure_plate": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:spore_blossom": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:budding_amethyst": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:oxidized_copper": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:nether_quartz_ore": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:tall_seagrass": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:lime_terracotta": {
+    "r": 103,
+    "g": 117,
+    "b": 53,
+    "colorName": "TERRACOTTA_LIME"
+  },
+  "minecraft:acacia_trapdoor": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:magenta_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:brown_glazed_terracotta": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:nether_gold_ore": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:bamboo_wall_sign": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:mossy_stone_brick_wall": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:brown_wool": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:creaking_heart": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:lodestone": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:yellow_concrete_powder": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:quartz_pillar": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:waxed_oxidized_chiseled_copper": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:potted_warped_fungus": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:chiseled_bookshelf": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:acacia_stairs": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:target": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:jungle_wood": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:spruce_wood": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:deepslate_diamond_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:cyan_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:magenta_bed": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:exposed_copper_grate": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:soul_lantern": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:nether_portal": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:bamboo_sign": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:pitcher_crop": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:honey_block": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:vault": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:bubble_column": {
+    "r": 64,
+    "g": 64,
+    "b": 255,
+    "colorName": "WATER_BLUE"
+  },
+  "minecraft:tuff_brick_stairs": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:gray_wool": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:cracked_nether_bricks": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:dead_tube_coral_block": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:deepslate_brick_stairs": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:nether_bricks": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:oak_wood": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:polished_blackstone_stairs": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:deepslate_coal_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:blue_terracotta": {
+    "r": 76,
+    "g": 62,
+    "b": 92,
+    "colorName": "TERRACOTTA_BLUE"
+  },
+  "minecraft:green_bed": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:redstone_wire": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:magenta_glazed_terracotta": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:stone_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:diorite_slab": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:brown_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:red_candle": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:mangrove_log": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:nether_sprouts": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:gold_block": {
+    "r": 250,
+    "g": 238,
+    "b": 77,
+    "colorName": "GOLD"
+  },
+  "minecraft:yellow_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:amethyst_cluster": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:waxed_weathered_cut_copper_stairs": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:detector_rail": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:packed_mud": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:deepslate_tile_slab": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:waxed_weathered_copper_grate": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:birch_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:purple_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cocoa": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:cave_air": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:acacia_planks": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:bone_block": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:black_stained_glass": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:pink_glazed_terracotta": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:cobbled_deepslate": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:yellow_stained_glass_pane": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:red_glazed_terracotta": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:resin_bricks": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:blackstone": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:mangrove_propagule": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:mangrove_hanging_sign": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:hopper": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:waxed_cut_copper_slab": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:fern": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:orange_carpet": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:green_glazed_terracotta": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:orange_concrete": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:mossy_stone_brick_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:cut_copper_slab": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:chiseled_nether_bricks": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:black_bed": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:brain_coral": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:redstone_lamp": {
+    "r": 159,
+    "g": 82,
+    "b": 36,
+    "colorName": "TERRACOTTA_ORANGE"
+  },
+  "minecraft:dark_oak_sign": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:quartz_stairs": {
+    "r": 255,
+    "g": 252,
+    "b": 245,
+    "colorName": "OFF_WHITE"
+  },
+  "minecraft:oak_wall_hanging_sign": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:blue_orchid": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:chorus_plant": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:oak_leaves": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:stone_brick_slab": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:dragon_egg": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:red_concrete": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:brown_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:potted_azalea_bush": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:skeleton_wall_skull": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:dark_oak_pressure_plate": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:weathered_copper_bulb": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:pink_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:cyan_shulker_box": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:stripped_acacia_wood": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:weathered_chiseled_copper": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:spruce_fence_gate": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:potted_jungle_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cherry_leaves": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:blackstone_slab": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:tuff_slab": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:spruce_stairs": {
+    "r": 129,
+    "g": 86,
+    "b": 49,
+    "colorName": "SPRUCE_BROWN"
+  },
+  "minecraft:sculk_shrieker": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:mangrove_slab": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:magenta_candle": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:nether_wart": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:soul_sand": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:light_blue_concrete_powder": {
+    "r": 102,
+    "g": 153,
+    "b": 216,
+    "colorName": "LIGHT_BLUE"
+  },
+  "minecraft:dead_fire_coral": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:cornflower": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:deepslate_gold_ore": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:pale_moss_block": {
+    "r": 153,
+    "g": 153,
+    "b": 153,
+    "colorName": "LIGHT_GRAY"
+  },
+  "minecraft:nether_wart_block": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:green_wool": {
+    "r": 102,
+    "g": 127,
+    "b": 51,
+    "colorName": "GREEN"
+  },
+  "minecraft:lime_glazed_terracotta": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:deepslate_tile_wall": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:black_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:white_wall_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:birch_button": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:cyan_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:jungle_wall_sign": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:waxed_exposed_copper": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:acacia_sign": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:polished_tuff_stairs": {
+    "r": 57,
+    "g": 41,
+    "b": 35,
+    "colorName": "TERRACOTTA_GRAY"
+  },
+  "minecraft:firefly_bush": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:cherry_hanging_sign": {
+    "r": 160,
+    "g": 77,
+    "b": 78,
+    "colorName": "TERRACOTTA_PINK"
+  },
+  "minecraft:warped_door": {
+    "r": 58,
+    "g": 142,
+    "b": 140,
+    "colorName": "DARK_AQUA"
+  },
+  "minecraft:cherry_sapling": {
+    "r": 242,
+    "g": 127,
+    "b": 165,
+    "colorName": "PINK"
+  },
+  "minecraft:purpur_block": {
+    "r": 178,
+    "g": 76,
+    "b": 216,
+    "colorName": "MAGENTA"
+  },
+  "minecraft:deepslate_bricks": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:oxidized_cut_copper": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:mangrove_wall_hanging_sign": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:blue_banner": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:wildflowers": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:infested_stone": {
+    "r": 164,
+    "g": 168,
+    "b": 184,
+    "colorName": "LIGHT_BLUE_GRAY"
+  },
+  "minecraft:stripped_birch_log": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:torch": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:crimson_stem": {
+    "r": 148,
+    "g": 63,
+    "b": 97,
+    "colorName": "DULL_PINK"
+  },
+  "minecraft:blue_wool": {
+    "r": 51,
+    "g": 76,
+    "b": 178,
+    "colorName": "BLUE"
+  },
+  "minecraft:andesite_stairs": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:melon_stem": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:fire_coral_fan": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:dead_horn_coral": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:oxidized_copper_door": {
+    "r": 22,
+    "g": 126,
+    "b": 134,
+    "colorName": "TEAL"
+  },
+  "minecraft:wither_skeleton_wall_skull": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:coal_block": {
+    "r": 25,
+    "g": 25,
+    "b": 25,
+    "colorName": "BLACK"
+  },
+  "minecraft:exposed_copper_door": {
+    "r": 135,
+    "g": 107,
+    "b": 98,
+    "colorName": "TERRACOTTA_LIGHT_GRAY"
+  },
+  "minecraft:yellow_concrete": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:mangrove_stairs": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:packed_ice": {
+    "r": 160,
+    "g": 160,
+    "b": 255,
+    "colorName": "PALE_PURPLE"
+  },
+  "minecraft:potted_oak_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:red_terracotta": {
+    "r": 142,
+    "g": 60,
+    "b": 46,
+    "colorName": "TERRACOTTA_RED"
+  },
+  "minecraft:stripped_warped_hyphae": {
+    "r": 86,
+    "g": 44,
+    "b": 62,
+    "colorName": "DARK_DULL_PINK"
+  },
+  "minecraft:stripped_oak_wood": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:pale_oak_sapling": {
+    "r": 167,
+    "g": 167,
+    "b": 167,
+    "colorName": "IRON_GRAY"
+  },
+  "minecraft:emerald_block": {
+    "r": 0,
+    "g": 217,
+    "b": 58,
+    "colorName": "EMERALD_GREEN"
+  },
+  "minecraft:birch_slab": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:smooth_sandstone": {
+    "r": 247,
+    "g": 233,
+    "b": 163,
+    "colorName": "PALE_YELLOW"
+  },
+  "minecraft:stripped_cherry_wood": {
+    "r": 160,
+    "g": 77,
+    "b": 78,
+    "colorName": "TERRACOTTA_PINK"
+  },
+  "minecraft:iron_bars": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:raw_copper_block": {
+    "r": 216,
+    "g": 127,
+    "b": 51,
+    "colorName": "ORANGE"
+  },
+  "minecraft:mycelium": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:bamboo": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:oak_sign": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:gray_shulker_box": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:potted_pink_tulip": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:gray_carpet": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:dead_bubble_coral_wall_fan": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:sugar_cane": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:medium_amethyst_bud": {
+    "r": 127,
+    "g": 63,
+    "b": 178,
+    "colorName": "PURPLE"
+  },
+  "minecraft:twisting_vines_plant": {
+    "r": 76,
+    "g": 127,
+    "b": 153,
+    "colorName": "CYAN"
+  },
+  "minecraft:lime_candle": {
+    "r": 127,
+    "g": 204,
+    "b": 25,
+    "colorName": "LIME"
+  },
+  "minecraft:brown_shulker_box": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:red_nether_brick_wall": {
+    "r": 112,
+    "g": 2,
+    "b": 0,
+    "colorName": "DARK_RED"
+  },
+  "minecraft:oak_fence": {
+    "r": 143,
+    "g": 119,
+    "b": 72,
+    "colorName": "OAK_TAN"
+  },
+  "minecraft:bamboo_stairs": {
+    "r": 229,
+    "g": 229,
+    "b": 51,
+    "colorName": "YELLOW"
+  },
+  "minecraft:dark_oak_planks": {
+    "r": 102,
+    "g": 76,
+    "b": 51,
+    "colorName": "BROWN"
+  },
+  "minecraft:deepslate": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  },
+  "minecraft:potted_acacia_sapling": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "colorName": "CLEAR"
+  },
+  "minecraft:rooted_dirt": {
+    "r": 151,
+    "g": 109,
+    "b": 77,
+    "colorName": "DIRT_BROWN"
+  },
+  "minecraft:tall_grass": {
+    "r": 0,
+    "g": 124,
+    "b": 0,
+    "colorName": "DARK_GREEN"
+  },
+  "minecraft:copper_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:mangrove_trapdoor": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:sniffer_egg": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:stripped_mangrove_wood": {
+    "r": 153,
+    "g": 51,
+    "b": 51,
+    "colorName": "RED"
+  },
+  "minecraft:emerald_ore": {
+    "r": 112,
+    "g": 112,
+    "b": 112,
+    "colorName": "STONE_GRAY"
+  },
+  "minecraft:dead_bubble_coral_block": {
+    "r": 76,
+    "g": 76,
+    "b": 76,
+    "colorName": "GRAY"
+  },
+  "minecraft:cobbled_deepslate_slab": {
+    "r": 100,
+    "g": 100,
+    "b": 100,
+    "colorName": "DEEPSLATE_GRAY"
+  }
+}
